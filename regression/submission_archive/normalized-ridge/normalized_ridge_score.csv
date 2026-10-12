@@ -1,0 +1,2 @@
+best_alpha,inner_cv_rmse,outer_oof_rmse,outer_oof_mae,outer_oof_r2
+1,11149.233456062902,11069.52939252998,4358.64621162553,0.9199588541677368
