@@ -1,2 +1,0 @@
-segment,rows,rf_mean_residual,rf_mae,rf_overshoot_rate,linear_mean_residual,linear_mae,linear_overshoot_rate,rf_better_rate,mean_rf_minus_linear_prediction
-overall,15589,-111.44146434781085,3527.555242401972,0.6006158188466226,-37.9058993724935,5488.919313443825,0.7063313875168388,0.7837577779203284,-73.53556497531737
